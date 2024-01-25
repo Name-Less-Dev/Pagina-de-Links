@@ -35,7 +35,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Pagina de Links é um agregador de links para usar como cartão de visitas online.
 
-- [Acesse o projeto finalizado, online](https://maykbrito.github.io/devlinks)
+- [Acesse o projeto finalizado, online](https://name-less-dev.github.io/Pagina-de-Links/)
 
 ## 🔖 Layout
 
@@ -47,6 +47,6 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito por Matheus A. Bezerra 
+Feito por Matheus A. Bezerra
 
-[Linkedin](https://discord.gg/rocketseat)
+[Linkedin](https://www.linkedin.com/in/matheus-araujo-bezerra/)
