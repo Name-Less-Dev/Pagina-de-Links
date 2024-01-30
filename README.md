@@ -19,7 +19,7 @@ Página para compartilhamento de links. <br/>
 <br>
 
 <p align="center">
-  <img alt="projeto PaginaDeLinks" src=".github/paginadelinks.png" width="100%">
+  <img alt="projeto PaginaDeLinks" src=".github/links.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
